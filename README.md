@@ -127,4 +127,4 @@ The sample CSV in this repo is released under **CC0** — copy it, resell it, pu
 
 ---
 
-*Questions: open an issue, or email 664311568@qq.com*
+*Questions: open an issue, or email renhua.wei@zohomail.com*
